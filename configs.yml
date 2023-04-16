@@ -1,0 +1,13 @@
+configs:
+  - name: zsh
+    files: [~/.zshrc, ~/.config/zsh/dev_plugin_alias.sh, ~/.config/zsh/reminder.txt, ~/.config/zsh/.zsh_alias, ~/.config/zsh/.zshrc, ~/.zshenv]
+  - name: lvim
+    files: [~/.config/lvim_config/]
+  - name: nvim
+    files: [~/.config/nvim/]
+  - name: tmux
+    files: [~/.config/tmux/.tmux.conf]
+  - name: alacritty
+    files: [~/.config/alacritty/alacritty.yml]
+  - name: config
+    files: [~/bin/configs.yml]
